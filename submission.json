@@ -1,0 +1,6 @@
+{
+  "prompt": "A surreal but physically plausible diptych showing abstract geometric terrain instead of a real-world setting. On the left panel, a smooth surface with evenly spaced shallow gaps, where only a few small spheres fall through. On the right panel, the terrain is distorted: a few gaps are stretched into long, elongated chasms occupying most of the space, while many other gaps are tiny and compressed. Numerous spheres fall randomly from above, but most are captured by the elongated chasms, creating dense clustering within them. The physical space itself appears warped around these large intervals, stretching them unnaturally. Lighting is natural and realistic, with shadows emphasizing depth and distortion. No text, no numbers, no symbols, no recognizable objects. Cinematic realism, high detail. Negative prompt: text, numbers, labels, diagrams, charts, signage, recognizable real-world scenes, people, faces, digital artifacts, collage, distortions that break physical plausibility, cartoonish style",
+  "model": "DALL·E 3",
+  "paradox": "Inspection Paradox",
+  "visual_logic": "Falling objects disproportionately land in elongated gaps, which dominate space due to distortion, showing how sampling by encounter favors longer intervals, making them appear more common than they are."
+}
